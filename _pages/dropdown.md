@@ -1,12 +1,11 @@
 ---
 layout: page
-title: submenus
+title: Other 
+order: 4
 nav: true
-dropdown: true
+dropdown: true 
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: BergerCube
+      permalink: /cube/
     - title: divider
-    - title: projects
-      permalink: /projects/
 ---
