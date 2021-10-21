@@ -7,5 +7,7 @@ dropdown: true
 children: 
     - title: BergerCube
       permalink: /cube/
-    - title: divider
+    - title: Photography
+      permalink: /photo/
+      
 ---
