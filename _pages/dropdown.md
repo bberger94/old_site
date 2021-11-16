@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Other 
-order: 4
+order: 5 
 nav: true
 dropdown: true 
 children: 
-    - title: BergerCube
+    - title: Cube
       permalink: /cube/
     - title: Photography
       permalink: /photo/

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cube/
-title: BergerCube
+title: Cube
 description: 
 nav: false
 ---
